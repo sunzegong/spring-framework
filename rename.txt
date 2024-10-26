@@ -1,1 +1,2 @@
 test fork submit
+test local git user and email
